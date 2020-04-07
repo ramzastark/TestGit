@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         Log.d("Main", "Main")
+        Log.d("Main", "siguiente Commit en Main")
 
         Log.d("Main", "Dante Dev")
         // 1er Commit Dante
