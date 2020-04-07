@@ -10,6 +10,11 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        Log.d("Main", "Dante Dev")
+        // 1er Commit Dante
+        // 2do Commit Dante
+        // 3ro Commit Dante
+
         Log.d("Main", "Main")
         Log.d("Main", "siguiente Commit en Main")
         // 1er Commit Develop
